@@ -1,15 +1,8 @@
-﻿int Soma(int N, List<int> A)
-{
-    if (N == 0)
-    {
-        return 0;
-    }
-        return Soma(N - 1, A) + A[N];
-}
+﻿static int Soma(int N, List<int> A) => N == 0 ? 0 : Soma(N - 1, A) + A[N];
 
-var lista = new List<int>()
+List<int> lista = new()
 {
-    1,2, 3, 4, 5, 6, 7, 8, 9, 10,
+    1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 };
 
 var resultado1 = Soma(5, lista);
