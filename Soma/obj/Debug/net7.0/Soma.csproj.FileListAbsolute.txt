@@ -1,0 +1,15 @@
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\bin\Debug\net7.0\Soma.exe
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\bin\Debug\net7.0\Soma.deps.json
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\bin\Debug\net7.0\Soma.runtimeconfig.json
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\bin\Debug\net7.0\Soma.dll
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\bin\Debug\net7.0\Soma.pdb
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\obj\Debug\net7.0\Soma.csproj.AssemblyReference.cache
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\obj\Debug\net7.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\obj\Debug\net7.0\Soma.AssemblyInfoInputs.cache
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\obj\Debug\net7.0\Soma.AssemblyInfo.cs
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\obj\Debug\net7.0\Soma.csproj.CoreCompileInputs.cache
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\obj\Debug\net7.0\Soma.dll
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\obj\Debug\net7.0\refint\Soma.dll
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\obj\Debug\net7.0\Soma.pdb
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\obj\Debug\net7.0\Soma.genruntimeconfig.cache
+C:\Users\m8dev\OneDrive\Documentos\PPRJs\recursividade\Soma\obj\Debug\net7.0\ref\Soma.dll
